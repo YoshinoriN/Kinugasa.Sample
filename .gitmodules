@@ -1,0 +1,7 @@
+[submodule "YoshinoriN"]
+	path = YoshinoriN
+	url = https://github.com/YoshinoriN/Kinugasa.git
+	branch = master
+[submodule "Kinugasa"]
+	path = Kinugasa
+	url = https://github.com/YoshinoriN/Kinugasa.git
